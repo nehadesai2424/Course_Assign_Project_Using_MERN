@@ -20,11 +20,12 @@ Welcome to the Assign Course System, a full-stack MERN application designed to e
 ## Get Started
 Check out the installation guide and setup instructions in the README to run the project locally.
 
-#📚Course Assign Project
+# 📚Course Assigning System - MERN Project
+
 A MERN Stack web application for managing students and assigning courses.
 Built with React (Vite), Node.js, Express, and MongoDB.
 
-##🚀 Features
+## 🚀 Features
 📌 Add, edit, and delete students, courses, and assigned courses.
 
 🔗 Assign multiple courses to students.
@@ -37,7 +38,7 @@ Built with React (Vite), Node.js, Express, and MongoDB.
 
 🔒 Secure and efficient backend.
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 Frontend: React (Vite), Bootstrap
 
 Backend: Node.js, Express.js, MongoDB
@@ -46,11 +47,12 @@ State Management: React Hooks
 
 Package Manager: npm 
 
-##📂 Project Structure
+## 📂 Project Structure
 
 Course_Assign_Project_Using_MERN/
 │
 ├── frontend/         # Vite React Frontend
+
 │   ├── src/
 │   ├── public/
 │   ├── package.json
@@ -65,22 +67,26 @@ Course_Assign_Project_Using_MERN/
 ├── .gitignore
 ├── README.md
 
-##🛠️ Installation & Setup
+## 🛠️ Installation & Setup
+
 1️⃣ Clone the Repository
+
 git clone https://github.com/nehadesai2424/Course_Assign_Project_Using_MERN.git
 cd Course_Assign_Project_Using_MERN
 
 2️⃣ Backend Setup
+
 cd backend
 npm install
 npm start
 
 3️⃣ Frontend Setup
+
 cd ../frontend
 npm install
 npm run dev
 
-##🚀 Usage
+## 🚀 Usage
 Open your browser and go to: http://localhost:5173
 
 Add students and courses.
@@ -89,7 +95,7 @@ Assign courses to students.
 
 View assigned courses with student and course details populated.
 
-##📌 API Endpoints
+## 📌 API Endpoints
 Student Routes
 Method	Endpoint	Description
 GET	/api/students	Get all students
