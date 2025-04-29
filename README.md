@@ -19,7 +19,7 @@ Built with **React (Vite)**, **Node.js**, **Express**, and **MongoDB**.
 - **Frontend:** React (Vite), Bootstrap
 - **Backend:** Node.js, Express.js, MongoDB
 - **State Management:** React Hooks
-- **Package Manager:** npm / yarn
+- **Package Manager:** npm 
 
 ---
 
